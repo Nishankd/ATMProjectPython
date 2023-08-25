@@ -19,7 +19,7 @@ def fast_cash(e_num):
 
 print("Welcome to Nishan Bank ")
 count = 4
-pin_code = 1313
+pin_code = **** #four digit pin code
 balance = 50000
 while count > 0:
     pin = int(input("Please enter the pin code "))
